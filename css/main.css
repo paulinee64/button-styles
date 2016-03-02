@@ -8,8 +8,8 @@ html {
 }
 
 div {
-  padding: .5rem;
   text-align: center;
+    padding: .5rem;
 }
 
 .btn {
